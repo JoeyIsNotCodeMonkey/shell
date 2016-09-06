@@ -1,0 +1,10 @@
+ls
+pwd
+ls
+pwd
+ls
+exit
+ls
+pwd
+ls
+exit
